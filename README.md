@@ -8,6 +8,7 @@
 #Then type following two commands in your terminal
 
 chmod +x montageCode.sh
+
 ./montageCode.sh
 
 #This will initiate the bash script, enjoy the process on terminal and you will get the final collage in same folder after the bash script is fully executed
